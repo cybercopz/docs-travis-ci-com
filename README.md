@@ -601,14 +601,14 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 #### Security Issues
 ***Any security issues should be submitted directly to [security@travis-ci.org](mailto:security@travis-ci.org)***
 
-#### Reporting Issues
+<h2> Reporting Issues</h2>
 <code>
 - Explain what you expected to happen vs the actual results
 - Include a screenshot if it helps illustrate the issue. https://github.com/blog/1347-issue-attachments
 - What steps are required to reproduce the issue
 - An example build that shows the issue
 </code>
-#### Submitting a PR to Travis-API
+<h2> Submitting a PR to Travis-API</h2>
 See testing and setup notes in the base <a href="https://github.com/travis-ci/travis-api"/>README</a>
 	</tbody>
       </td>
@@ -618,8 +618,8 @@ See testing and setup notes in the base <a href="https://github.com/travis-ci/tr
 			<td bgcolor="#ffffcc">
 </summary>
 
-<code>title: Travis CI Tutorial
-layout: en
+<code>title: Travis CI Tutorial</code>
+<code>layout: en
 redirect_from:
   - /user/getting-started/
 </code>
@@ -629,20 +629,19 @@ If you're new to continuous integration or would like some more information on
 what Travis CI does, start with [Core Concepts for Beginners](/user/for-beginners)
 instead.</code>
 </details>
-______
 <br>
-## Prerequisites
+<h2> Prerequisites</h2>
 </br>
-<br>To start using Travis CI, make sure you have:</br>
+<h2>To start using Travis CI, make sure you have:</h2>
 <br>
- * A [GitHub](https://github.com/) account.
- * Owner permissions for a project [hosted on GitHub](https://help.github.com/categories/importing-your-projects-to-github/).
-</br>
-<br>
-## To get started with Travis CI
+ * A <a href="https://github.com/">GitHub</a> account.
+ * Owner permissions for a project <a href="https://help.github.com/categories/importing-your-projects-to-github/"/>hosted on GitHub</a>.
 </br>
 <br>
-1. Go to [Travis-ci.com](https://travis-ci.com) and [*Sign up with GitHub*](https://travis-ci.com/signin).</br>
+<h2> To get started with Travis CI</h2>
+</br>
+<br>
+1. Go to <a href="https://travis-ci.com"/>Travis-ci.com</a> and [Sign up with GitHub](https://travis-ci.com/signin).</br>
 <br>
 2. Accept the Authorization of Travis CI. You'll be redirected to GitHub.</br>
 <br>
