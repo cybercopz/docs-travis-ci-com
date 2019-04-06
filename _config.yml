@@ -16,4 +16,4 @@ plugins:
 sass:
   sass_dir: assets/stylesheets
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-hacker
